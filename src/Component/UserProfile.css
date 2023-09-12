@@ -1,0 +1,13 @@
+.checking {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 95px;
+  width: 105px;
+  text-align: center;
+}
